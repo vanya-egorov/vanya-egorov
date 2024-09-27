@@ -11,7 +11,6 @@
 <img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
 <a/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--
 **vanya-egorov/vanya-egorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
