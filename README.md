@@ -7,22 +7,26 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<a href="https://t.me/vny_eg">
-<img src="https://img.shields.io/badge/telegram-blue?logo=telegram&logoColor=white">
-<a/>
 
-  
-<!--
-**vanya-egorov/vanya-egorov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<a href="https://t.me/vny_eg" title="Telegram">
+  <img align="left" alt="Telegram" width="22px" src="https://cdn.svgporn.com/logos/telegram.svg">
+</a>
+<a href="https://vk.com/vny_eg" title="VK">
+  <img align="left" alt="VK" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/VK_Compact_Logo_%282021-present%29.svg/2048px-VK_Compact_Logo_%282021-present%29.svg.png" />
+</a>
+<a href="mailto:vanyagorbach17@gmail.com" title="Email">
+  <img align="left" alt="Email" width="22px" src="https://cdn.icon-icons.com/icons2/294/PNG/128/Mail_31108.png" />
+</a>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+![Golang](https://img.shields.io/badge/-Golang-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MinIO](https://img.shields.io/badge/-MinIO-0073CF?style=flat-square&logo=minio&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![CI/CD](https://img.shields.io/badge/-CI/CD-5C4EE5?style=flat-square&logo=gitlab&logoColor=white)
